@@ -1,0 +1,14 @@
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\bin\Debug\net8.0\HelloWorld.exe
+C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\bin\Debug\net8.0\HelloWorld.deps.json
+C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\bin\Debug\net8.0\HelloWorld.runtimeconfig.json
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\bin\Debug\net8.0\HelloWorld.dll
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\bin\Debug\net8.0\HelloWorld.pdb
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfoInputs.cache
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.AssemblyInfo.cs
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.csproj.CoreCompileInputs.cache
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.dll
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\refint\HelloWorld.dll
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
+C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
+C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
