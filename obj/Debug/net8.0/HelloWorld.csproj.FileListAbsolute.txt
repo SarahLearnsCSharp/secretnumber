@@ -12,3 +12,4 @@ c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\
 c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.pdb
 C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.genruntimeconfig.cache
 C:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\ref\HelloWorld.dll
+c:\Users\sjane\OneDrive\Documents\Hackathon\CSharpLearning\HelloWorld\obj\Debug\net8.0\HelloWorld.sourcelink.json

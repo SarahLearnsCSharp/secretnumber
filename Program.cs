@@ -38,9 +38,21 @@ class Program
                 if(userPlayAgain == "Y") {
                     playAgain = true;
                  }
-                 else if(userPlayAgain == "N") {
+                else if(userPlayAgain == "y") {
+                    playAgain = true;
+                 }
+                else if(userPlayAgain == "N") {
                     Console.WriteLine("Bye! Thanks for playing.");
                     playAgain = false;
+                 }
+                else if(userPlayAgain == "n") {
+                    Console.WriteLine("Bye! Thanks for playing.");
+                    playAgain = false;
+                 }
+                else if(userPlayAgain != "n" && userPlayAgain != "y" && userPlayAgain != "Y" && userPlayAgain != "N") {
+                    Console.WriteLine("Invalid Response. Play Again?");
+                    Console.WriteLine("Y | N");
+                    userPlayAgain = Console.ReadLine();
                  }
                  
         }
